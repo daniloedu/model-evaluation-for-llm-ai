@@ -48,6 +48,3 @@ From a cursory analysis, the JSON primarily contains information about products.
 - The notebook also reads product and category data from a JSON file, which is essential for the evaluation process. Ensure this data is available and correctly formatted.
 - This is an evaluation notebook. It's crucial to note that the model's performance may vary depending on the intricacies of the prompts, the nature of the customer messages, and the quality of the "ideal" answers set.
 
----
-
-Would you like me to review the additional helper functions or the JSON file containing product details to provide more specific or detailed information in the README?
